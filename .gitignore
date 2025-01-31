@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+pyvenv.cfg
+
+.idea/
+
 # C extensions
 *.so
 
